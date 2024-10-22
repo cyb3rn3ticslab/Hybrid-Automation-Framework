@@ -6,11 +6,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.abs</groupId>
-	<artifactId>guru99bankdemo</artifactId>
+	<artifactId>horus</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>guru99Bankdemo</name>
-	<url>http://www.demo.guru99.com/V4/</url>
+	<name>HORUS</name>
+	<url></url>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
